@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GenerateMenue">
+    <Position X="3.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAAAAAACAAAAAAAAAAAAAAAAAAgAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GenerateMenue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainMenueControler">
+    <Position X="10.25" Y="2" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>QAQAAAACACAACAAAAAAAAAEAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\MainMenueControler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameManager">
+    <Position X="1.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAADAAAAAgAAAAAAAAABCAAAAAQAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\GameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ReplayControler">
+    <Position X="8" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAQAAAAACAAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ReplayControler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="micRecorder">
+    <Position X="12.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAQAKAAAAIAAAAAAAAAAAAAAEAgCEAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\micRecorder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CamraControler">
+    <Position X="5.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAABAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Assets\Scripts\CamraControler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityEngine.MonoBehaviour" Collapsed="true">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
