@@ -7,19 +7,11 @@ using UltimateReplay;
 /// </summary>
 public class micRecorder : MonoBehaviour
 {
-
-
-    
     AudioClip clip;
     bool recording = false;
     float M_Time = 0;
     string fileName;
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-        
-    }
+   
 
     // Update is called once per frame
     void Update()
@@ -57,7 +49,7 @@ public class micRecorder : MonoBehaviour
     {
         Microphone.End("");
         M_Time /= 60;
-       // clip=  SavWav.TrimSilence(clip, time);
+        //clip=  SavWav.TrimSilence(clip, time);
         SavWav.Save(filename, clip);
     }
 

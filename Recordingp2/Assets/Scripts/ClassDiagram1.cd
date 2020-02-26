@@ -24,7 +24,7 @@
   <Class Name="micRecorder">
     <Position X="18" Y="4" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAQAAAAQAKAAAAAAAAAAAAAAAAAAAEAgCEAAAAAAAAA=</HashCode>
+      <HashCode>AAQAAAAQAIAAAAAAAAAAAAAAAAAAAEAgCEAAAAAAAAA=</HashCode>
       <FileName>Assets\Scripts\micRecorder.cs</FileName>
     </TypeIdentifier>
   </Class>
@@ -43,7 +43,7 @@
     </TypeIdentifier>
   </Class>
   <Class Name="SavWav">
-    <Position X="1.5" Y="0.5" Width="1.5" />
+    <Position X="4.25" Y="3.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQAAIAIAAIAAgAAAAAAAAAAAAAAAAAAAABgAAAAAAA=</HashCode>
       <FileName>Assets\Scripts\SavWav.cs</FileName>
@@ -118,14 +118,14 @@
     </TypeIdentifier>
   </Enum>
   <Enum Name="UltimateReplay.PlaybackState" Collapsed="true">
-    <Position X="18.25" Y="8" Width="1.5" />
+    <Position X="18.25" Y="8.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>QAAAAABAAAAAAAAAAAAABACAAAAJAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Assets\Scripts\UltimateReplay\Scripts\ReplayManager.cs</FileName>
     </TypeIdentifier>
   </Enum>
   <Enum Name="UltimateReplay.UpdateMethod" Collapsed="true">
-    <Position X="20" Y="8" Width="1.5" />
+    <Position X="20" Y="8.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQAAAAAAgAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Assets\Scripts\UltimateReplay\Scripts\ReplayManager.cs</FileName>

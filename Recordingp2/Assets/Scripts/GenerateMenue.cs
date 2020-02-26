@@ -35,7 +35,7 @@ public class GenerateMenue : MonoBehaviour
             //RecordingDictionaryClass.load();
         }
         var dic = RecordingDictionaryClass.RecordingDictionary;
-        int offset = -160;
+        int offset = 0;
         //for each entery create a button set its text to the key and its on press event 
         foreach(KeyValuePair<string,string> s in dic)
         {
