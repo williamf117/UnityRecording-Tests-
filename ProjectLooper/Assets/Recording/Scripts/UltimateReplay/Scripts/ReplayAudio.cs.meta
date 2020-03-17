@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: deaad67f67ee1a440997bf897b40c5a7
+labels:
+- UltimateReplay
+- Replay
+- Recording
+- Playback
+- Killcam
+- ActionReplay
+- GhostVehic
+timeCreated: 1497533782
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
