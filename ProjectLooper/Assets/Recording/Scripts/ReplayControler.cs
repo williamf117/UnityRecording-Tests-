@@ -15,7 +15,10 @@ public class ReplayControler : MonoBehaviour
     [SerializeField]
     GameObject replayprefab, recordprefab;
     GameObject replayRig, recordRig ;
-
+    //the audio source that the mic recording should play through
+    [SerializeField]
+    AudioSource AudioSource;
+    
     private void Awake()
     {
         if(instance == null)
@@ -27,10 +30,7 @@ public class ReplayControler : MonoBehaviour
             Destroy(this);
         }
     }
-    //the audio source that the mic recording should play through
-    [SerializeField]
-    AudioSource AudioSource;
-    
+
 
     /// <summary>
     /// make a new recording 
