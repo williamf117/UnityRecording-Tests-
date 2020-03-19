@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UltimateReplay;
+
 /// <summary>
 /// This class records the mic input and uses the sawave script to save it as a wav file 
 /// </summary>
