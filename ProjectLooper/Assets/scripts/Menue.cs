@@ -4,8 +4,6 @@ using UnityEngine;
 
 public class Menue : MonoBehaviour
 {
-    [SerializeField]
-    string filename;
     ReplayControler controler;
     // Start is called before the first frame update
     void Start()
@@ -15,7 +13,7 @@ public class Menue : MonoBehaviour
     }
     public void StartRecording()
     {
-        controler.createRecording(filename);
+        controler.createRecording("TestRecording");
     }
     public void StopRecording()
     {
@@ -23,7 +21,7 @@ public class Menue : MonoBehaviour
     }
     public void Playback()
     {
-        controler.SelectandStartReplay(filename);
+        controler.SelectandStartReplay("TestRecording");
     }
 
 }
