@@ -16,4 +16,10 @@ public class SavableObject : MonoBehaviour
     {
         
     }
+
+    public string save()
+    {
+
+        return (gameObject.name + "," + transform.position.ToString() + "," + transform.rotation.ToString());
+    }
 }
